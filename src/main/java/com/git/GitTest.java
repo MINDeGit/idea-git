@@ -18,5 +18,6 @@ public class GitTest {
         System.out.println("push GitHub2");
         //pull到本地
         System.out.println("GitHub pull");
+        System.out.println("GitHub pull2");
     }
 }
