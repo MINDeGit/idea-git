@@ -6,5 +6,7 @@ public class GitTest {
         System.out.println("hello GitHub");
         System.out.println("hello Gitee");
         System.out.println("hello GitLab");
+        //新增内容
+        String str="git add";
     }
 }
