@@ -15,5 +15,7 @@ public class GitTest {
         String str21="git add dev2";
         //push到GitHub
         System.out.println("push GitHub");
+        //pull到本地
+        System.out.println("GitHub pull");
     }
 }
