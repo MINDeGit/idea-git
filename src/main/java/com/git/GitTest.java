@@ -11,7 +11,7 @@ public class GitTest {
         //新增内容1
         String str1="git add dev";
         //新增内容1
-        String str2="git add dev";
+        String str2="git add dev1";
         String str21="git add dev2";
     }
 }
