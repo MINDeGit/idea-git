@@ -13,5 +13,7 @@ public class GitTest {
         //新增内容1
         String str2="git add dev1";
         String str21="git add dev2";
+        //push到GitHub
+        System.out.println("push GitHub");
     }
 }
